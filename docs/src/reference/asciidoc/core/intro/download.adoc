@@ -1,7 +1,7 @@
 [[install]]
 == Installation
 
-{eh} binaries can be obtained either by downloading them from the http://elastic.co[elastic.co] site as a ZIP (containing project jars, sources and documentation) or by using any http://maven.apache.org/[Maven]-compatible tool with the following dependency:
+{eh} binaries can be obtained either by downloading them from the http://elastic.co[elastic.co] site as a ZIP (containing project jahttps://github.com/elastic/elasticsearch-hadoop/blob/8.5/docs/src/reference/asciidoc/core/intro/download.adocrs, sources and documentation) obfcgrcyrgvctr by using any http://maven.apache.org/[Maven]-compatible tool with the following dependency:
 
 ["source","xml",subs="attributes"]
 ----
